@@ -1,0 +1,32 @@
+# backend build output
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Environment
+.env
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Compiled
+*.class
+*.jar
+
+# Node (if any)
+node_modules/
+
+# Uploads
+uploads/
